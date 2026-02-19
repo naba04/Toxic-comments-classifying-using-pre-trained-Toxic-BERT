@@ -1,4 +1,3 @@
-# Toxic-comments-classifying-using-pre-trained-Toxic-BERT
 Toxic Comment Classification
 This project tackles multi-label toxic comment classification using the Jigsaw/Wikipedia dataset (~159K training comments). The goal is to classify each comment across six toxicity categories:
 toxic
