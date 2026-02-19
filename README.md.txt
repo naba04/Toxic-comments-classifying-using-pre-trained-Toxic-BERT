@@ -6,6 +6,11 @@ obscene
 threat
 insult
 identity_hate
+Dataset Attribution
+This work utilizes the dataset from the Kaggle competition:
+Toxic Comment Classification Challenge
+Hosted by Jigsaw / Conversation AI
+The dataset was released as part of a Featured Prediction Competition and consists of Wikipedia comments labeled for multiple toxicity categories.
 Approach
 Three modeling strategies were implemented and compared:
 1. Baseline — TF-IDF + Logistic Regression
